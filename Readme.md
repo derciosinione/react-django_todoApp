@@ -10,8 +10,6 @@ project I got knowledge that helped me to build big projects using reactjs and D
     <li>Create a Todo App</li>
 </ol>
 
-
-
 <h2>Technologies Used:</h2>
 <ul>
     <li>Python</li>
@@ -20,7 +18,6 @@ project I got knowledge that helped me to build big projects using reactjs and D
     <li>Reactjs</li>
     <li>RestApi</li>
 </ul>
-
 
 <h2>Additional Python Modules Required:</h2>
 <ul>
